@@ -1,2 +1,2 @@
-# adss
-Automated Deployment and Scaling System
+# Automated Deployment and Scaling System
+Development in initial state
